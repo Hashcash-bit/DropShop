@@ -15,46 +15,46 @@ function Home() {
             title="Lean Ground Beef"
             price={5.99}
             image={Beef}
-            rating={5}
+            rating={3}
           />
           <Product
             id="111111112"
-            title="kofta kebob from Bomyiyaan kebob, try this shit out man"
-            price={13.99}
-            image=" https://lh3.googleusercontent.com/proxy/tCtR8K8xZs5MbL1lJ4vGT9xAg31ESvhKBwHjiSjdn_arqC7FgPDCCLkqSRq_FdlU__D8butPTlsNDXPZaZ1q4ZqyDfa42SpAqnV9dTBP"
-            rating={5}
+            title="Ferrero Nutella Hazelnut Spread"
+            price={3.29}
+            image="https://i5.walmartimages.ca/images/Enlarge/956/598/956598.jpg"
+            rating={4}
           />
         </div>
         <div className="home__row">
           <Product
             id="111111113"
-            title="kofta kebob from Bomyiyaan kebob, try this shit out man"
+            title="Dairyland 10% Half & Half Cereal Cream"
             price={13.99}
-            image=" https://lh3.googleusercontent.com/proxy/tCtR8K8xZs5MbL1lJ4vGT9xAg31ESvhKBwHjiSjdn_arqC7FgPDCCLkqSRq_FdlU__D8butPTlsNDXPZaZ1q4ZqyDfa42SpAqnV9dTBP"
+            image="https://i5.walmartimages.ca/images/Enlarge/014/800/999999-6870014800.jpg"
             rating={5}
           />
           <Product
             id="111111114"
-            title="kofta kebob from Bomyiyaan kebob, try this shit out man"
+            title="International Delight Southern Butter Pecan Coffee Whitener"
             price={13.99}
-            image=" https://lh3.googleusercontent.com/proxy/tCtR8K8xZs5MbL1lJ4vGT9xAg31ESvhKBwHjiSjdn_arqC7FgPDCCLkqSRq_FdlU__D8butPTlsNDXPZaZ1q4ZqyDfa42SpAqnV9dTBP"
-            rating={5}
+            image=" https://i5.walmartimages.ca/images/Enlarge/102/512/999999-4127102512.jpg"
+            rating={2}
           />
           <Product
             id="111111115"
-            title="kofta kebob from Bomyiyaan kebob, try this shit out man"
+            title="Cheez-It® Hot & Spicy, Baked Snack Crackers"
             price={13.99}
-            image=" https://lh3.googleusercontent.com/proxy/tCtR8K8xZs5MbL1lJ4vGT9xAg31ESvhKBwHjiSjdn_arqC7FgPDCCLkqSRq_FdlU__D8butPTlsNDXPZaZ1q4ZqyDfa42SpAqnV9dTBP"
-            rating={5}
+            image="https://i5.walmartimages.ca/images/Enlarge/720/708/6000200720708.jpg"
+            rating={0}
           />
         </div>
         <div className="home__row">
           <Product
             id="111111116"
-            title="kofta kebob from Bomyiyaan kebob, try this shit out man"
+            title="Proscan 32, 720p LED HD TV, PLDED3273A"
             price={13.99}
-            image=" https://lh3.googleusercontent.com/proxy/tCtR8K8xZs5MbL1lJ4vGT9xAg31ESvhKBwHjiSjdn_arqC7FgPDCCLkqSRq_FdlU__D8butPTlsNDXPZaZ1q4ZqyDfa42SpAqnV9dTBP"
-            rating={5}
+            image="https://i5.walmartimages.ca/images/Enlarge/083/949/6000202083949.jpg"
+            rating={4}
           />
         </div>
       </div>
